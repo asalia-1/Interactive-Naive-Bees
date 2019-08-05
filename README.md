@@ -4,7 +4,7 @@ This script uses a SVM supervised learning algorithm and computer vision to dete
 Tools used:
 Python, pandas, numpy, scikit-learn, skimage, PIL, matplotlib 
 
-## To Run and Train the model locally:
+## To Run Locally:
 run install_packages.sh to install all dependencies
 
 
